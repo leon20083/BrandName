@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BrandName/static/css/main.47828dd4.css",
+    "main.js": "/BrandName/static/js/main.2a1406e0.js",
+    "static/media/hero-cover.jpg": "/BrandName/static/media/hero-cover.584dca97feab6840923e.jpg",
+    "index.html": "/BrandName/index.html",
+    "main.47828dd4.css.map": "/BrandName/static/css/main.47828dd4.css.map",
+    "main.2a1406e0.js.map": "/BrandName/static/js/main.2a1406e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47828dd4.css",
+    "static/js/main.2a1406e0.js"
+  ]
+}
